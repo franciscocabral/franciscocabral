@@ -8,8 +8,8 @@
 
 <h1 align="center">&nbsp;</h1>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscocabral&show_icons=true&theme=dracula&langs_count=8&locale=en&layout=compact" alt="franciscocabral" />&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscocabral&show_icons=true&theme=dracula&locale=en" alt="franciscocabral" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscocabral&show_icons=true&theme=dracula&langs_count=8&locale=en&layout=compact" alt="franciscocabral" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscocabral&show_icons=true&theme=dracula&locale=en" alt="franciscocabral" />
  <!--- 
   <br>
   <br>
